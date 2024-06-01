@@ -1,22 +1,12 @@
 ![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
-![GitHub repo size](https://img.shields.io/github/repo-size/CSC3100/Pong-Game)
-![GitHub Release](https://img.shields.io/github/v/release/CSC3100/Pong-Game)
+![GitHub repo size](https://img.shields.io/github/repo-size/CSC3100/GUI)
+![GitHub Release](https://img.shields.io/github/v/release/CSC3100/GUI)
 
 # GUI
-A Pong Game implemented to exemplify Client-Server architecture and multi-threading
+Examples of Java Swing capabilities to create Graphical User Interfaces
 <br>
-## Running
 
-To run the server run as:
-```
-java -jar javiergs.PongGameServer
-```
-
-To execute the client run as:
-```
-java -jar javiergs.PongGameClient
-```
-## User Interface
+## Layered Pane
 
 Running a server shows a panel where a player control left side and received client position via socket; running a client shows the player control right side and received server position via socket.
 
@@ -25,7 +15,7 @@ Running a server shows a panel where a player control left side and received cli
 </p>
 
 
-## Blueprint
+### Blueprint
 A drafted class diagram of the current release is as follows:
 
 <p align="center">
