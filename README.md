@@ -9,8 +9,9 @@ Explore the diverse capabilities of Java Swing for crafting dynamic and visually
 
 <details>
 <summary>Example of LayeredPane</summary>
-## Layered Pane
-Creates a LayeredPane container with four layers showing a background, two animated clouds and a calculator, each in its own panel.
+
+  ## Layered Pane
+  Creates a LayeredPane container with four layers showing a background, two animated clouds and a calculator, each in its own panel.
 <p align="center">
 <IMG SRC="https://github.com/CSC3100/GUI/assets/3814755/a2eb8359-13d0-4a58-a0ee-75225fff4f22" WIDTH=600>
 </p>
