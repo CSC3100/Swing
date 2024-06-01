@@ -4,7 +4,7 @@
 
 
 # GUI
-Examples of Java Swing capabilities to create Graphical User Interfaces
+Explore the diverse capabilities of Java Swing for crafting dynamic and visually appealing Graphical User Interfaces (GUIs). From creating interactive buttons and menus to designing intricate layouts and implementing versatile components like sliders and progress bars. Dive into Swing's robust library of components and discover its flexibility in customizing appearance and behavior.
 <br>
 
 ## Layered Pane
