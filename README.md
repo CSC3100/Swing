@@ -15,7 +15,7 @@ This example constructs a LayeredPane container comprising four distinct layers:
 </p>
 
 ## Drag and Drop
-This example features an interface with a menu bar and a drawing panel. In the panel, users can draw, drag, and drop nodes, with connections automatically established between them. The app also provides functionality to save and load data, ensuring seamless project management. The graphical user interface (GUI) is depicted below, along with a draft of the class diagram for the current release.
+This example features an interface with a menu bar and a drawing panel. In the panel, users can draw, drag, and drop nodes, with connections automatically established between them. The app also provides functionality to save and load data, ensuring seamless project management. The graphical user interface (GUI) is depicted below, along with a draft of the class diagram for the current release. Notice, we are playing with a Blackboard/Singleton for academic purposes (a laboratory to be done).
 
 <p align="center">
 <IMG SRC="https://github.com/CSC3100/GUI/assets/3814755/1d64b53b-3fee-4a76-88a6-ebcb11eec365" WIDTH=600>
