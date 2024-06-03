@@ -2,22 +2,14 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/CSC3100/GUI)
 ![GitHub Release](https://img.shields.io/github/v/release/CSC3100/GUI)
 
-
 # GUI
-Examples of Java Swing capabilities to create Graphical User Interfaces
+Explore the diverse capabilities of Java Swing for crafting dynamic and visually appealing Graphical User Interfaces (GUIs). From creating interactive buttons and menus to designing intricate layouts and implementing versatile components like sliders and progress bars. Dive into Swing's robust library of components and discover its flexibility in customizing appearance and behavior.
 <br>
 
 ## Layered Pane
-
-Running a server shows a panel where a player control left side and received client position via socket; running a client shows the player control right side and received server position via socket.
+This example constructs a LayeredPane container comprising four distinct layers: a background, two animated clouds, and a calculator, each housed within its own panel. The graphical user interface (GUI) is depicted below, along with a draft of the class diagram for the current release.
 
 <p align="center">
 <IMG SRC="https://github.com/CSC3100/GUI/assets/3814755/a2eb8359-13d0-4a58-a0ee-75225fff4f22" WIDTH=600>
-</p>
-
-### Blueprint
-A drafted class diagram of the current release is as follows:
-
-<p align="center">
-<img width="600" src="https://github.com/CSC3100/Pong-Game/assets/3814755/26cf5ecf-8172-4a36-8942-88b05d31b6e7">
+<img width="600" src="https://github.com/CSC3100/GUI/assets/3814755/641bc386-eeb5-4f16-933a-d1405aa29974">
 </p>
