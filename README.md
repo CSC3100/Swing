@@ -13,3 +13,11 @@ This example constructs a LayeredPane container comprising four distinct layers:
 <IMG SRC="https://github.com/CSC3100/GUI/assets/3814755/a2eb8359-13d0-4a58-a0ee-75225fff4f22" WIDTH=600>
 <img width="600" src="https://github.com/CSC3100/GUI/assets/3814755/641bc386-eeb5-4f16-933a-d1405aa29974">
 </p>
+
+## Drag and Drop
+This example features an interface with a menu bar and a drawing panel. In the panel, users can draw, drag, and drop nodes, with connections automatically established between them. The app also provides functionality to save and load data, ensuring seamless project management. The graphical user interface (GUI) is depicted below, along with a draft of the class diagram for the current release.
+
+<p align="center">
+<IMG SRC="https://github.com/CSC3100/GUI/assets/3814755/1d64b53b-3fee-4a76-88a6-ebcb11eec365" WIDTH=600>
+<img width="600" src="https://github.com/CSC3100/GUI/assets/3814755/641bc386-eeb5-4f16-933a-d1405aa29974">
+</p>
