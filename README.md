@@ -19,5 +19,5 @@ This example features an interface with a menu bar and a drawing panel. In the p
 
 <p align="center">
 <IMG SRC="https://github.com/CSC3100/GUI/assets/3814755/1d64b53b-3fee-4a76-88a6-ebcb11eec365" WIDTH=600>
-<img width="600" src="https://github.com/CSC3100/GUI/assets/3814755/641bc386-eeb5-4f16-933a-d1405aa29974">
+<img width="600" src="https://github.com/CSC3100/GUI/assets/3814755/7aea8a30-8bb5-4502-ac32-2607c4f0c2a1">
 </p>
