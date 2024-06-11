@@ -1,8 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/CSC3100/GUI)
 ![GitHub Release](https://img.shields.io/github/v/release/CSC3100/GUI)
-
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 # GUI
 Explore the diverse capabilities of Java Swing for crafting dynamic and visually appealing Graphical User Interfaces (GUIs). From creating interactive buttons and menus to designing intricate layouts and implementing versatile components like sliders and progress bars. Dive into Swing's robust library of components and discover its flexibility in customizing appearance and behavior.
