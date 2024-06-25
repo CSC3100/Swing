@@ -1,4 +1,4 @@
-package paint;
+package javiergs.gui.paint;
 
 import java.awt.*;
 import java.awt.event.MouseEvent;
