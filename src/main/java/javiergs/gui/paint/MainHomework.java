@@ -1,4 +1,4 @@
-package paint;
+package javiergs.gui.paint;
 
 import javax.swing.*;
 import java.awt.*;
