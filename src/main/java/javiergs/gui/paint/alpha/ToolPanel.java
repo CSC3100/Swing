@@ -1,12 +1,20 @@
-package javiergs.gui.paint;
+package javiergs.gui.paint.alpha;
 
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * ToolPanel creates a panel with a color menu and three radio buttons.
+ *
+ * @author javiergs
+ * @version 1.0
+ */
 public class ToolPanel extends JPanel {
-	// add a selection menu and a group of radio buttons to the panel
+	
 	public ToolPanel() {
-		String[] colors = {"Black", "Red", "Blue", "Green", "Yellow", "Orange", "Pink"};
+		String[] colors = {
+			"Black", "Red", "Blue", "Green", "Yellow", "Orange", "Pink"
+		};
 		JComboBox colorMenu = new JComboBox(colors);
 		JRadioButton rectangleRadio = new JRadioButton("Rectangle");
 		JRadioButton circleRadio = new JRadioButton("Circle");
@@ -21,5 +29,5 @@ public class ToolPanel extends JPanel {
 		add(circleRadio);
 		add(arcRadio);
 	}
-
+	
 }
