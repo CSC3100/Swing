@@ -7,6 +7,13 @@
 Explore the diverse capabilities of Java Swing for crafting dynamic and visually appealing Graphical User Interfaces (GUIs). From creating interactive buttons and menus to designing intricate layouts and implementing versatile components like sliders and progress bars. Dive into Swing's robust library of components and discover its flexibility in customizing appearance and behavior.
 <br>
 
+## Paint Application
+This is a drawing app that lets you create circles, rectangles, and other shapes in a range of colors. It serves as a demonstration of Swing widgets and listeners in action. The graphical user interface (GUI) is depicted below (version 1).
+
+<p align="center">
+<IMG SRC="https://github.com/CSC3100/Swing/assets/3814755/8b5aa0b5-094a-44b6-ad29-2d94a807af0a" WIDTH=600>
+</p>
+
 ## Layered Pane
 This example constructs a LayeredPane container comprising four distinct layers: a background, two animated clouds, and a calculator, each housed within its own panel. The graphical user interface (GUI) is depicted below, along with a draft of the class diagram for the current release.
 
